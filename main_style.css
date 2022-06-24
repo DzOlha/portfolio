@@ -312,6 +312,11 @@ footer {
     }
 }
 @media (max-width: 768px){
+    .wrapper_content {
+        margin: 0;
+        width: 100%;
+        border-radius: 0;
+    }
     .menu {
         height: auto;
         padding: 2%;
